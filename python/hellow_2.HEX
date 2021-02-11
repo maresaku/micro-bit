@@ -1,0 +1,4 @@
+# Add your Python code here. E.g.
+#一度だけ表示
+from microbit import *
+display.scroll('hello')
